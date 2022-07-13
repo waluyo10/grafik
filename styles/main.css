@@ -76,7 +76,7 @@ body {
   right: 0;
 }
 
-.idea-3 strong {
+.idea-3 strong, .tebal strong {
   border-radius: 3px;
   display: inline-block;
   padding: 3px 5px;
